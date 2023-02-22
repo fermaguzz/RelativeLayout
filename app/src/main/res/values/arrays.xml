@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="programas">
+        <item>Malcolm in the middle</item>
+        <item>The big bang theory</item>
+        <item>How i met your mother</item>
+
+    </string-array>
+</resources>
